@@ -13,7 +13,7 @@ import NorthLayout
 import Ikemen
 
 
-private let livePhotoDuration: NSTimeInterval = 3
+private let livePhotoDuration: NSTimeInterval = 31
 private let outputDir = NSURL(fileURLWithPath: NSHomeDirectory()).URLByAppendingPathComponent("Pictures/LoveLiver")
 
 
